@@ -19,9 +19,11 @@ O Organia+ é um aplicativo móvel de agenda e produtividade desenvolvido em Rea
 - **Framework:** React Native (Bare Workflow)
 - **Linguagem:** TypeScript
 - **Estilização:** Styled Components (para componentes reutilizáveis e temas)
-- **Navegação:** React Navigation (Stack e Bottom Tabs)
+- **Navegação:** React Navigation (Stack e Bottom Tabs), @react-native-screens e @react-native-safe-area-context
 - **Persistência de Dados:** @react-native-async-storage/async-storage
-- **Animações/Gestos:** react-native-reanimated e react-native-gesture-handler
+- **Animações/Gestos:** @react-native-reanimated e @react-native-gesture-handler
+- **Notificações:** @notifee/react-native
+- **Data/Hora:** @react-native-community/datetimepicker e @date-fns
 
 ## ⚙️ Como Rodar o Projeto
 
